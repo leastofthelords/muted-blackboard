@@ -1,5 +1,5 @@
 # muted-blackboard
-*"easy on the eyes, coherant iterm2 theme."*
+*"easy on the eyes, coherant iterm2 theme."*, ANSI Brights are vivid, normals are muted.
 
 ## Preveiw:
 
