@@ -1,11 +1,10 @@
 # muted-blackboard
 *"easy on the eyes, coherant iterm2 theme."*
 
-## Fastfetch
+## Preveiw:
 
 ![Fastfetch](screenshots/fastfetch.png)
 
-## Palette
+![preview0](screenshots/palette-preveiw.png)
 
-![Palette preview](screenshots/palette-preveiw.png)
-
+![preview1](screenshots/paletter-preveiw.png)
