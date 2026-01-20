@@ -1,5 +1,5 @@
 # muted-blackboard
-*"easy on the eyes, coherant iterm2 theme."*, ANSI Brights are vivid, normals are muted. [preview2](#2) is a good example of normals.
+*"easy on the eyes, coherant."* ANSI Brights are vivid, normals are muted. [preview2](#2) is a good example of normals.
 
 [muted-blackboard.itermcolors](muted-blackboard.itermcolors)
 
