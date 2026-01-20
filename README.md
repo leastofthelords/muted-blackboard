@@ -5,6 +5,6 @@
 
 ![Fastfetch](screenshots/fastfetch.png)
 
-![preview0](screenshots/palette-preveiw.png)
+![preview](screenshots/palette-preveiw.png)
 
-![preview1](screenshots/paletter-preveiw.png)
+![preview2](screenshots/palette-preveiw2.png)
